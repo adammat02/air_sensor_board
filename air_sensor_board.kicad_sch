@@ -4030,7 +4030,7 @@
 		(uuid "4367ebbb-e5f3-4257-9cfb-c764f48b36f1")
 	)
 	(label "LED"
-		(at 115.57 104.14 0)
+		(at 115.57 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4070,7 +4070,7 @@
 		(uuid "6fe7c3fa-83b7-4795-abc7-9879d9a537fb")
 	)
 	(label "BUTTON"
-		(at 115.57 101.6 0)
+		(at 115.57 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
