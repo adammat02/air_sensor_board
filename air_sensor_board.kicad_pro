@@ -662,13 +662,18 @@
       {
         "filename": "air_sensor_board.kicad_sch",
         "name": "air_sensor_board",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "70286ebc-34e3-4886-8b1f-cbd234baf213"
       }
     ],
-    "used_designators": "M1,U1,Y1",
+    "used_designators": "#PWR1-10,BT1,C1-3,D1,J1,L1-2,M1,Q1,R1-3,SW1,U1-2,X1,Y1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "70286ebc-34e3-4886-8b1f-cbd234baf213",
+      "air_sensor_board"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
